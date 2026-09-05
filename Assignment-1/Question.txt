@@ -1,0 +1,1 @@
+Question:  Design a simulator which will continuously generate temperature & humidity data based on some random values on the current date & time .This will generate this data continuously &  client side script will read this data & display it in a tabulas format until & unless the producer script stops.

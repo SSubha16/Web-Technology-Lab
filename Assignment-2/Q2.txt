@@ -1,0 +1,1 @@
+Questions : Create a Quiz app which will have 10 Questions related to only php & the answer will be submitted to the backend & submitted answers will go through sanitization check & after perform the sanitization check out of the selected answers, evaluate how many answers are correct & how many answers are wrong & generate the final score.
