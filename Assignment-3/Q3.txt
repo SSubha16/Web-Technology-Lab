@@ -1,0 +1,4 @@
+Write a script to keep send the following data from the user,(Username, Email ID, phone no, Age) using assyncronzed 
+communicationand do the following operations in the  backend, Calculate thw total number of th characters in the name ,
+ take the current year, add two random digits in the current year and generate a strong password which includes the 
+ combinations of all the recieved a from user display it as a strong password in frontend .  
