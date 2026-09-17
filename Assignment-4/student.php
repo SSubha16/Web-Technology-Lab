@@ -2,9 +2,9 @@
 // Handle form submission asynchronously
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Database connection details
-   $servername = "localhost";
-    $db_user    = "root";
-    $db_pass    = "SSubha@16"; 
+   $servername = "********";
+    $db_user    = "****";
+    $db_pass    = "********"; 
     $db_name    = "student_db";
 
     // Establish connection
