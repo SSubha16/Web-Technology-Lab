@@ -1,0 +1,2 @@
+Using asyncronous communication create a from in html to collect all the details of students and send the details to
+php to store it permanently in mysql.
